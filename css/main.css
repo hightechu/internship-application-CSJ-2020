@@ -1,0 +1,53 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+
+body {
+  /* Define the custom font for the whole document */
+  font-family: 'Share Tech Mono', monospace;
+}
+
+/* Added top padding */
+.introduction {
+  padding-top: 4rem;
+}
+
+/* Added top padding */
+.projects {
+  padding-top: 2rem;
+}
+
+/* Display block for all anchor tags */
+/* Added a color to links */
+.projects a {
+  color: #DB7093;
+  display: block;
+}
+
+/* On hover change color and text-decoration */
+.projects a:hover {
+  color: #882D60;
+  text-decoration: line-through;
+}
+
+/* Added top padding */
+.youtube {
+  padding-top: 2rem;
+}
+
+/* Added top padding */
+.questions {
+  padding-top: 2rem;
+}
+
+/* Change color of h2 tags that are inside the questions class */
+.questions h2 {
+  color: #661141;
+}
+
+/* Media Queries */
+@media (max-width: 500px) {
+  /* Gives h2 tags a smaller font size than default */
+  h2 {
+    font-size: 1.5rem;
+  }
+}

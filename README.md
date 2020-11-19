@@ -1,7 +1,9 @@
 # HighTechU 2020-21 Internship Application ⌚️
 ### The Internship Application is due November 25th at 11:59pm PT.
 ---
-## Please review the [**job description**](/files/job-description.pdf) prior to completing the application.
+## Please review the [**Job Description**](/files/job-description.pdf) prior to completing the application.
+
+Having issues with the application? Contact us [by email here](https://hightechu.ca/main-section/contact-us?mt=get-in-touch) or create an issue on [GitHub here](https://github.com/hightechu/internship-application-CSJ-2020/issues/new).
 
 ## **Application Checklist**:
 <!---

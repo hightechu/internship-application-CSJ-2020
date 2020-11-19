@@ -101,13 +101,13 @@ cd your/working/directory
 
 2. **Create a repository folder**
 ```bash
-mkdir internship-application-2020-firstName-lastName
+mkdir internship-application-CSJ-2020-firstName-lastName
 ```
 >   **Important**: `firstName` and `lastName` will be replaced by your first & last name.
 
 3. **Change into your repository folder**
 ```bash
-cd internship-application-2020-firstName-lastName
+cd internship-application-CSJ-2020-firstName-lastName
 ```
 
 4. **Initialize Git in Repository Folder**
@@ -117,7 +117,7 @@ git init
 
 5. **Copy the application template**
 ```bash
-git pull https://github.com/hightechu/internship-application-2020.git
+git pull https://github.com/hightechu/internship-application-CSJ-2020.git
 ```
 
 5. **Open the project in Atom (Text Editor)**
@@ -135,7 +135,7 @@ This option is ideal for people without computer admin access, or those on a Win
 
 1. **View the Template Repository on GitHub**
 
-      Open the tempalte repository URL at https://github.com/hightechu/internship-application-2020
+      Open the tempalte repository URL at https://github.com/hightechu/internship-application-CSJ-2020
 
 2. **Download the repository**
 
@@ -147,7 +147,7 @@ This option is ideal for people without computer admin access, or those on a Win
 
 4. **Rename the repository**
 
-      The extracted folder will be named `internship-application-2020-main` and must be renamed to `internship-application-2020-firstName-lastName`
+      The extracted folder will be named `internship-application-CSJ-2020-main` and must be renamed to `internship-application-CSJ-2020-firstName-lastName`
 
       > **Important**: `firstName` and `lastName` will be replaced by your first & last name.
 
@@ -212,7 +212,7 @@ Assuming you followed the instructions above on how to get this repository local
 5. **Change into your repository**
 
   ```bash
-  cd internship-application-firstName-lastName
+  cd internship-application-SCSJ-2020-firstName-lastName
   ```
 
 6. **Add your changes to Git.**

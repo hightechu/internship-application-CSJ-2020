@@ -37,7 +37,7 @@ We have provided a base template for your website. You may create your own websi
 
 #### Base Structure
 
-* `internship-application`
+* `internship-application-CSJ-2020`
     * .gitignore
     * README.md
     * index.html
@@ -194,7 +194,7 @@ Assuming you followed the instructions above on how to get this repository local
 - Visit https://github.com/username?tab=repositories.
   - replace `username` with your GitHub username
 - Select the green `new` button
-  - For repository name enter `internship-application-2020-firstName-lastName`
+  - For repository name enter `internship-application-CSJ-2020-firstName-lastName`
   - Set visibility to `private`
   - Check `Initialize the repository with a README file` box
   - Check `Add .gitignore` box
@@ -212,7 +212,7 @@ Assuming you followed the instructions above on how to get this repository local
 5. **Change into your repository**
 
   ```bash
-  cd internship-application-SCSJ-2020-firstName-lastName
+  cd internship-application-CSJ-2020-firstName-lastName
   ```
 
 6. **Add your changes to Git.**

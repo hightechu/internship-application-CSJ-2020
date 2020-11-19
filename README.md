@@ -74,9 +74,10 @@ Your one-page website must include the following:
 
 > **Important**: Your written answers cannot be more than 500 characters for each question. Use this online tool to verify your character count before submitting. http://www.charactercountonline.com/
 
----
----
----
+```
+•
+```
+
 ## **Get Started**
 
 To start working on your internship application, you'll need a local copy of the application template files. This can be achieved in two different ways depending on your setup.
@@ -156,9 +157,9 @@ This option is ideal for people without computer admin access, or those on a Win
 
       Now you can open your text editor, and open the new repository or right click the copied repository folder and click `open with` your preferred text editor.
 
----
----
----
+```
+•
+```
 
 ## **Upload Application**
 
@@ -265,9 +266,9 @@ git push -u origin master
 
 **Please contact us at hightechu@uvic.ca should you wish to take advantage of this submission option.**
 
----
----
----
+```
+•
+```
 
 ## **Complete Application Form**
 
